@@ -1,4 +1,4 @@
 # Distância entre capitais brasileiras
-Aplicação com tabela de distância entre capitais brasileiras.
+Aplicação utilizando recursos de tabela para construção de página com distância entre capitais brasileiras.
 
-Turma: 1º C
+Esta tarefa foi utilizada para o ensino de utilização do git/github para a turma do 1º Ano C.
