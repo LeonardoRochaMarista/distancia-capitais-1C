@@ -5,7 +5,7 @@ Esta tarefa foi utilizada para o ensino de utilização do git/github para a tur
 
 As distâncias apresentadas nesse projeto, dizem respeito às seguintes capitais:
 
-Curitiba
-Porto Velho
-Rio de Janeiro
-Belo Horizonte
+Curitiba <br>
+Porto Velho <br>
+Rio de Janeiro<br>
+Belo Horizonte<br>
